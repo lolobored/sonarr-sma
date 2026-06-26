@@ -22,6 +22,7 @@ ENV SMA_PATH=/usr/local/sma \
     SMA_FFPROBE_PATH=ffprobe \
     SMA_REPO=https://github.com/lolobored/sickbeard_mp4_automator.git \
     SMA_BRANCH=feature/pgs-ocr-subtitles \
+    EASYOCR_MODULE_PATH=/usr/local/sma/config/.EasyOCR \
     XDG_CONFIG_HOME=/config/xdg \
     SONARR_CHANNEL=v4-stable \
     SONARR_BRANCH=main \
